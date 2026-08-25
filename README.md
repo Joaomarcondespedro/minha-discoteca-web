@@ -1,2 +1,3 @@
-# minha-discoteca-web
-Um sistema para audiófilos e colecionadores gerenciarem suas mídias físicas.
+# minha-discoteca-web - João Pedro Marcondes
+
+O "Minha Discoteca" é uma aplicação web responsiva desenvolvida para gerenciar uma coleção pessoal de mídias físicas (Vinis, CDs e fitas K7). O sistema permite ao usuário cadastrar, editar, excluir e visualizar seus álbuns em uma interface interativa que simula uma "estante virtual". Para facilitar o cadastro, a aplicação consome a API pública do iTunes para buscar automaticamente as capas e informações dos discos. Além disso, o projeto conta com uma funcionalidade de "Fila de Reprodução" que salva os discos selecionados localmente no navegador do usuário.
