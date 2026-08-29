@@ -20,3 +20,5 @@ Tipografia:
 Títulos (Headings): Playfair Display (trazendo uma identidade clássica, vintage e sofisticada).
 Textos Normais (Body): Smooch Sans (utilizando tamanhos base a partir de 16px/18px para garantir excelente legibilidade).
 Espaçamentos: Baseados no sistema de utilitários do Bootstrap (rem).
+
+Protótipo Interativo (Stitch.AI): https://stitch.withgoogle.com/projects/14965960484826854438
