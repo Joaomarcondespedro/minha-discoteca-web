@@ -28,20 +28,19 @@ erDiagram
         datetime adicionadoEm
     }
 ```
-## 2. Design Tokens
-### Paleta de Cores
-* Fundo da Aplicação: Gradiente escuro (Vinho #4A0E0E a Roxo Escuro #0F051A).
+## 2. Design Tokens (Premium Archival Aesthetic)
 
-* Cards (Estante de Discos): Marrom amadeirado (#5D4037).
-
-* Cor de Destaque (Botões e Links): Dourado (#D4AF37).
-
-* Texto Principal: Branco (#FFFFFF).
+### Paleta de Cores e Materiais
+* **Fundo da Aplicação (Floor):** Superfície escura (`#121415`) com gradiente sutil (Vinho Profundo para Preto) simulando iluminação de galeria.
+* **Texturas (Prateleiras):** Uso de textura orgânica de madeira Nogueira (Walnut Wood) para criar divisão estrutural.
+* **Cards e Contêineres (Archive Case):** Efeito *Glassmorphism* (vidro fumê) em carvão escuro (`rgba(26, 26, 36, 0.60)`) com desfoque de fundo (backdrop-blur).
+* **Cor de Destaque (Botões e Tags):** Dourado Polido (`#D4AF37` / `#e9c349`) reservado para ações principais e itens raros.
+* **Texto Principal:** Off-white (`#e2e2e3`) para conforto visual, e Cinza Suave (`#d4c2c6`) para metadados.
 
 ### Tipografia
-* Títulos (Headings): Playfair Display
-
-* Textos Normais (Body): Montserrat
+* **Títulos (Headings):** Playfair Display (trazendo voz editorial, autoritária e clássica).
+* **Textos Normais e Metadados (Body/Label):** Inter (garantindo legibilidade máxima para especificações técnicas e inventário, mesmo em tamanhos pequenos).
+* **Espaçamentos:** Sistema de grid base de 8pt e utilitários do Bootstrap (rem).
 
 ## 3. Protótipo Interativo
 * **Figma / Stitch.AI:** https://stitch.withgoogle.com/projects/17137094067812874499
