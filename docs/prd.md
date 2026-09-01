@@ -1,16 +1,12 @@
 # Product Requirements Document (PRD) - Minha Discoteca
 
-## 1. Identificação
-* **Autor:** João Pedro Marcondes
-* **Projeto:** Minha Discoteca (Gerenciador de Acervo de Vinis e CDs)
-
-## 2. Descrição
+## 1. Visão geral e Objetivo
 O **Minha Discoteca** é uma aplicação web responsiva projetada para solucionar a dificuldade de colecionadores em organizar e visualizar seus acervos de mídias físicas (vinis, CDs e fitas K7). O sistema oferece uma estante virtual intuitiva com integração à API pública do iTunes para facilitar a busca de dados e capas, além de um sistema de persistência local para gerenciamento de álbuns e fila de reprodução.
 
-## 3. Atores do Sistema
+## 2. Atores do Sistema
 * **Colecionador:** Usuário principal da aplicação, responsável por visualizar, cadastrar, editar, excluir e organizar seus discos na biblioteca e nas filas de reprodução.
 
-## 4. Histórias de Usuário (User Stories)
+## 3. Histórias de Usuário (User Stories)
 * **US01:** Como **Colecionador**, quero **visualizar meus álbuns em uma grade de cards responsiva**, para que **eu possa navegar pelo meu acervo de forma visual e organizada**.
 * **US02:** Como **Colecionador**, quero **cadastrar um novo álbum buscando dados pela API do iTunes**, para que **o preenchimento das informações e capas seja automático e ágil**.
 * **US03:** Como **Colecionador**, quero **editar as informações de um álbum existente**, para que **eu possa corrigir dados ou atualizar detalhes da minha coleção**.
