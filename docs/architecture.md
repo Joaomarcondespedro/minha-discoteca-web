@@ -44,7 +44,7 @@ erDiagram
 * Textos Normais (Body): Montserrat
 
 ## 3. Protótipo Interativo
-* Figma / Stitch.AI: https://stitch.withgoogle.com/projects/14965960484826854438
+* **Figma / Stitch.AI:** https://stitch.withgoogle.com/projects/17137094067812874499
   
 ## 4. Dicionário de Dados
 
