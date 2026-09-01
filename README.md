@@ -49,4 +49,4 @@ O **Minha Discoteca** é uma aplicação web responsiva projetada para coleciona
 * [Arquitetura, Modelo de Dados e Design Tokens](docs/architecture.md)
 
 ## 🎨 Protótipo Interativo
-* [Acessar Protótipo Navegável (Figma / Stitch.AI)](https://stitch.withgoogle.com/projects/14965960484826854438)
+* [Acessar Protótipo Navegável (Figma / Stitch.AI)]([https://stitch.withgoogle.com/projects/14965960484826854438](https://stitch.withgoogle.com/projects/17137094067812874499))
