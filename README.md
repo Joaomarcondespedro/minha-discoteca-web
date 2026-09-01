@@ -11,12 +11,12 @@ O **Minha Discoteca** é uma aplicação web responsiva projetada para coleciona
 ## ✅ Checklist | Indicadores de Desempenho (ID)
 
 ### RA1 - Utilizar Frameworks CSS e layouts responsivos
-- [x] **ID 01** - Prototipa interfaces adaptáveis para mobile e desktop (Figma/Stitch).
+- [ ] **ID 01** - Prototipa interfaces adaptáveis para mobile e desktop (Figma/Stitch).
 - [ ] **ID 02** - Implementa layout responsivo com Framework CSS usando Flexbox/Grid.
 - [ ] **ID 03** - Implementa layout responsivo com CSS puro.
 - [ ] **ID 04** - Utiliza componentes prontos de um Framework CSS e JavaScript.
 - [ ] **ID 05** - Cria layout fluido usando unidades relativas (vw, vh, %, em, rem).
-- [x] **ID 06** - Aplica um Design System consistente (cores, tipografia, padrões).
+- [ ] **ID 06** - Aplica um Design System consistente (cores, tipografia, padrões).
 - [ ] **ID 07** - Utiliza Sass (SCSS) aplicando variáveis, mixins e funções.
 - [ ] **ID 08** - Aplica tipografia responsiva ou fluida.
 - [ ] **ID 09** - Aplica técnicas de responsividade de imagens usando CSS.
@@ -30,9 +30,9 @@ O **Minha Discoteca** é uma aplicação web responsiva projetada para coleciona
 
 ### RA3 - Otimização do processo de desenvolvimento web
 - [ ] **ID 15** - Configura ambiente com Node.js e NPM.
-- [x] **ID 16** - Utiliza boas práticas de versionamento no Git/GitHub.
-- [x] **ID 17** - Mantém um README.md padronizado, com checklist preenchido.
-- [x] **ID 18** - Organiza arquivos do projeto de forma modular na pasta docs.
+- [ ] **ID 16** - Utiliza boas práticas de versionamento no Git/GitHub.
+- [ ] **ID 17** - Mantém um README.md padronizado, com checklist preenchido.
+- [ ] **ID 18** - Organiza arquivos do projeto de forma modular na pasta docs.
 - [ ] **ID 19** - Configura linters e formatadores (ESLint, Prettier).
 
 ### RA4 - Bibliotecas e componentes JavaScript
