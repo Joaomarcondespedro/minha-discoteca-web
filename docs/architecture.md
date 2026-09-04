@@ -68,7 +68,7 @@ O sistema fará uso de duas frentes de consumo de dados: uma API pública para e
 
 ### API Externa (iTunes Search API)
 Responsável por buscar capas e dados originais dos álbuns (Atende ao **ID 24**).
-* **`GET`** `https://itunes.apple.com/search?term={TERMO_DE_BUSCA}&entity=album`
+* **`GET`** `https://stitch.withgoogle.com/projects/6420219798709879911`
   * *Descrição:* Retorna uma lista de álbuns correspondentes à busca. O parâmetro `term` deve conter o nome do artista ou álbum (espaços substituídos por `+`).
 
 ### Mock Backend (JSON Server)
